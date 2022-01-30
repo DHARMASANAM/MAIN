@@ -2,8 +2,15 @@ this is my second file in git
 added second line
 added third line
 added fourth line
+<<<<<<< HEAD
+kjfhsugsfdbgkjsfdhghsjdg
+fdkubvhgdfuivghbfuivgbsdfhijv
+asfdvfdjghgsdfvujhsdbvfjuvfhyd
+sfdfjkvygsdvuysdgv
+=======
 dflgbhdfikvjgunbsdfkjgfs
 sfrrgkhjsgjhsg
 sfflgijhiskgjsfdgdfb
 dfhdfhfdshg
 fsdhgfhgfsdgfsg
+>>>>>>> e343a2baa40e48526dabe577515d110d4f77f20b
